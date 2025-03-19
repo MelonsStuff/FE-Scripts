@@ -60,4 +60,4 @@ Socials:
 // https://www.youtube.com/@MelonScripter
 ]]
 
-loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/e7b408abcb813525d37e9b7a6bf301c9/raw/9840c1650d299d36846f521ea6d87b9faffdc058/Minigun.txt"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/e7b408abcb813525d37e9b7a6bf301c9/raw/6421f9000e90e8a4c2ed57052208acbd6f9648dd/Minigun.txt"))()
