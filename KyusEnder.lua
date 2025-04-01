@@ -50,4 +50,4 @@ Socials:
 // https://www.youtube.com/@MelonScripter
 ]]
 
-loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/e75f359fee8f18a171962df8c020ed95/raw/359a583c55ddd1dd5be7ae0bfb29f079dec0678e/KyusEnder.lua"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/e75f359fee8f18a171962df8c020ed95/raw/7106700d10ec2efc084b8879048dca72f86a10e7/KyusEnder.lua"))()
