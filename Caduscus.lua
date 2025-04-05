@@ -54,4 +54,4 @@ Socials:
 // https://www.youtube.com/@MelonScripter
 ]]
 
-loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/a1d2e5fb60f5fda0f985346f1c3392c4/raw/563768e6c119aa0009638baaf6734e8268671970/Caduscus.lua"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/a1d2e5fb60f5fda0f985346f1c3392c4/raw/54c37ab3dfb72f066bc1e1cc04f4d4b3fa2d3efa/Caduscus.lua"))()
