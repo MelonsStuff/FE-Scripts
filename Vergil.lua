@@ -1,7 +1,7 @@
 
 _G.Settings = {
 ["PermanentDeath"] = true, -- use permadeath method (only on supported executors)
-["ClickFling"] = true, -- click to fling player (recommended off since this uses damagefling)
+["ClickFling"] = false, -- click to fling player (recommended off since this uses damagefling)
 ["Refit"] = true, -- refit to get lost hats during permadeath
 ["HatDrop"] = false, -- drops adds to add collission to the fake rig
 ["BreakJointsDelay"] = 0.225, -- how fast the player respawns (loop respawn method)
@@ -15,7 +15,7 @@ _G.Settings = {
 ["UseAHat"] = false, -- uses a hat to fling (requires hat drop)
 }
 
-loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/82ea8c3cc5d32fc623c74bf74d728258/raw/3006f9717cb77ae9fe74a3416b6388eeb98bfc16/Vergil.lua"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/82ea8c3cc5d32fc623c74bf74d728258/raw/47cecde868b94bbbaeb2995155b55c2129273a95/Vergil.lua"))()
 
 --[[
 [PAID] Weapons:
