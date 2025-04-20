@@ -1,3 +1,22 @@
+
+_G.Settings = {
+["PermanentDeath"] = true, -- use permadeath method (only on supported executors)
+["ServerBreakJoints"] = true, -- uses serverbreakjoints which can bypass certain anticheats (brookhaven for example)
+["ClickFling"] = true, -- click to fling player
+["Refit"] = true, -- refit to get lost hats during permadeath
+["HatDrop"] = false, -- drops adds to add collission to the fake rig (shoulder and head accessories only)
+["BreakJointsDelay"] = 0.255, -- how fast the player respawns (loop respawn method)
+}
+ 
+ _G.Fling = {
+["Prediction"] = true, -- accurate fling (stable) 
+["Timeout"] = 0.245, -- how long a player will be targetted during fling
+["HighlightTargets"] = true, -- highlight players being flung 
+["UseATool"] = true, -- use a tool to fling
+["UseAHat"] = false, -- uses a hat to fling (requires hat drop)
+}
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/d5d6eedb3b618c383ce8ec0a9f0e2687/raw/81d5b58b192e32a4c80e154a278a9b3640ce13b8/DisbeliefDancer.lua"))()
+
 --[[
 Credits:
 MelonScripter - created disbelief hub
@@ -45,5 +64,3 @@ Socials:
 // https://x.com/MelonScripter
 // https://www.youtube.com/@MelonScripter
 ]]
-
-loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/55576b681073c3fa7db869b4feb7f313/raw/e4579c86fea0304eaca55e086ffd428730676001/DisbeliefDancer.lua"))()
