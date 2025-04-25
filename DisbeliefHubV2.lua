@@ -1,3 +1,4 @@
+--[[ the animations are from the game r6 dances, not taken from krystal dance v3. ]] -- 
 
 _G.Settings = {
 ["PermanentDeath"] = true, -- use permadeath method (only on supported executors)
