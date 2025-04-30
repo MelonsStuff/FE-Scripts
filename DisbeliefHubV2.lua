@@ -16,7 +16,7 @@ _G.Settings = {
 ["UseATool"] = true, -- use a tool to fling
 ["UseAHat"] = false, -- uses a hat to fling (requires hat drop)
 }
-loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/d5d6eedb3b618c383ce8ec0a9f0e2687/raw/81d5b58b192e32a4c80e154a278a9b3640ce13b8/DisbeliefDancer.lua"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/d5d6eedb3b618c383ce8ec0a9f0e2687/raw/6251b4edf15b31e6c1db62094b86e02c1a8f984d/DisbeliefDancer.lua"))()
 
 --[[
 Credits:
